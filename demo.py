@@ -1,3 +1,2 @@
 print("Hii...Anurag")
-print("how are you...")
-print("4")
+print(5+7)
